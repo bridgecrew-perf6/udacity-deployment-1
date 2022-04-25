@@ -77,6 +77,6 @@ To run this application, you must run your browser _Without CORS_, here is how t
 
 ## Application Links
 
-1.  [Udagram](udagram-frontend1345234.s3-website-us-east-1.amazonaws.com).
+1.  [Udagram](udagram-frontend567556656887.s3-website-us-east-1.amazonaws.com).
 
-2.  [Api Endpoint](http://udagramapi-env.eba-63vcsmjt.us-east-1.elasticbeanstalk.com).
+2.  [Api Endpoint](http://Udagramapi-env.eba-supwqszv.us-east-1.elasticbeanstalk.com).
